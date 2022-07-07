@@ -1,0 +1,2150 @@
+[
+   {
+      "nombre":"la Soca",
+      "lat":"42.460067",
+      "lang":"2.537154",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-soca/"
+   },
+   {
+      "nombre":"Piló de Bellmaig",
+      "lat":"42.432057",
+      "lang":"2.650714",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pilo-de-bellmaig/"
+   },
+   {
+      "nombre":"Torre de la Maçana",
+      "lat":"42.498172",
+      "lang":"3.026334",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torre-de-la-macana/"
+   },
+   {
+      "nombre":"Sant Martí de la Roca",
+      "lat":"42.624735",
+      "lang":"2.678001",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-marti-de-la-roca/"
+   },
+   {
+      "nombre":"la Serra (Vingrau)",
+      "lat":"42.865681",
+      "lang":"2.793761",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-serra-vingrau/"
+   },
+   {
+      "nombre":"Puig de la Collada Verda",
+      "lat":"42.454611",
+      "lang":"2.396931",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-collada-verda/"
+   },
+   {
+      "nombre":"Pic de Gallinassa",
+      "lat":"42.502000",
+      "lang":"2.507173",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-gallinassa/"
+   },
+   {
+      "nombre":"Santa Anna dels Quatre Termes",
+      "lat":"42.565323",
+      "lang":"2.561282",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/santa-anna-dels-quatre-termes/"
+   },
+   {
+      "nombre":"Puig de la Pelada",
+      "lat":"42.621619",
+      "lang":"2.194762",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-pelada/"
+   },
+   {
+      "nombre":"Pic de Coma Mitjana",
+      "lat":"42.441761",
+      "lang":"2.209608",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-coma-mitjana/"
+   },
+   {
+      "nombre":"Torre de Goà",
+      "lat":"42.522667",
+      "lang":"2.377506",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torre-de-goa/"
+   },
+   {
+      "nombre":"Puig del Pam",
+      "lat":"42.604820",
+      "lang":"2.031042",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-del-pam/"
+   },
+   {
+      "nombre":"Pic dels Pedrons",
+      "lat":"42.531510",
+      "lang":"1.752267",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-dels-pedrons/"
+   },
+   {
+      "nombre":"Puig Occidental de Coll Roig",
+      "lat":"42.549348",
+      "lang":"1.916784",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-occidental-de-coll-roig/"
+   },
+   {
+      "nombre":"Puig de Font Viva",
+      "lat":"42.569143",
+      "lang":"1.879615",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-font-viva/"
+   },
+   {
+      "nombre":"Puig de la Cometa",
+      "lat":"42.617214",
+      "lang":"1.959298",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cometa/"
+   },
+   {
+      "nombre":"el Punxó",
+      "lat":"42.530582",
+      "lang":"1.854635",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-punxo/"
+   },
+   {
+      "nombre":"Pic dels Pessons o Gargantillar",
+      "lat":"42.508121",
+      "lang":"1.664673",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-dels-pessons-o-gargantillar/"
+   },
+   {
+      "nombre":"Pic de Cabanyó",
+      "lat":"42.630904",
+      "lang":"1.468022",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-cabanyo/"
+   },
+   {
+      "nombre":"Pic Alt del Cubil",
+      "lat":"42.527781",
+      "lang":"1.670181",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-alt-del-cubil/"
+   },
+   {
+      "nombre":"Pic de la Coma de Varilles",
+      "lat":"42.619163",
+      "lang":"1.664295",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-la-coma-de-varilles/"
+   },
+   {
+      "nombre":"Pic del Pla de l\\'Estany",
+      "lat":"42.606802",
+      "lang":"1.464030",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-del-pla-de-lestany/"
+   },
+   {
+      "nombre":"Alt de la Capa",
+      "lat":"42.562973",
+      "lang":"1.454193",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/alt-de-la-capa/"
+   },
+   {
+      "nombre":"el Sui",
+      "lat":"41.749114",
+      "lang":"2.345652",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-sui/"
+   },
+   {
+      "nombre":"Turó de l\\'Home",
+      "lat":"41.776488",
+      "lang":"2.434813",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-lhome/"
+   },
+   {
+      "nombre":"Turó de Montcada",
+      "lat":"41.477208",
+      "lang":"2.176612",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-montcada/"
+   },
+   {
+      "nombre":"Castell de Bocs",
+      "lat":"41.642372",
+      "lang":"1.941816",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/castell-de-bocs/"
+   },
+   {
+      "nombre":"Tuc de Sarrahèra",
+      "lat":"42.644251",
+      "lang":"0.796356",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-sarrahera/"
+   },
+   {
+      "nombre":"Tuc des Armèros",
+      "lat":"42.781246",
+      "lang":"0.876909",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-des-armeros/"
+   },
+   {
+      "nombre":"Tuc d\\'Arres",
+      "lat":"42.743713",
+      "lang":"0.663349",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-darres/"
+   },
+   {
+      "nombre":"Montanha d\\'Uishèra",
+      "lat":"42.765611",
+      "lang":"0.732791",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montanha-duishera/"
+   },
+   {
+      "nombre":"Tuc de Crabèra",
+      "lat":"42.825700",
+      "lang":"0.858212",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-crabera/"
+   },
+   {
+      "nombre":"Malh de Bolard",
+      "lat":"42.805808",
+      "lang":"0.960450",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/malh-de-bolard/"
+   },
+   {
+      "nombre":"Tuc de Parros",
+      "lat":"42.767776",
+      "lang":"0.933047",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-parros/"
+   },
+   {
+      "nombre":"Malh dera Artiga",
+      "lat":"42.658615",
+      "lang":"0.695561",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/malh-dera-artiga/"
+   },
+   {
+      "nombre":"Pujoalbo",
+      "lat":"42.655205",
+      "lang":"0.840139",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pujoalbo/"
+   },
+   {
+      "nombre":"Tuc de Salana",
+      "lat":"42.646875",
+      "lang":"0.908438",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-salana/"
+   },
+   {
+      "nombre":"Tuc de la Tallada",
+      "lat":"42.616766",
+      "lang":"0.723704",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-tallada/"
+   },
+   {
+      "nombre":"Tossal d\\'Espígol",
+      "lat":"41.711267",
+      "lang":"1.089982",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-despigol/"
+   },
+   {
+      "nombre":"lo Blau (Roca Grossa Moletans)",
+      "lat":"40.870771",
+      "lang":"0.266146",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lo-blau-roca-grossa-moletans/"
+   },
+   {
+      "nombre":"Rocamala",
+      "lat":"40.992862",
+      "lang":"0.397732",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/rocamala/"
+   },
+   {
+      "nombre":"la Miranda de Terranyes",
+      "lat":"40.835005",
+      "lang":"0.280338",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-miranda-de-terranyes/"
+   },
+   {
+      "nombre":"Mola d\\'Irto",
+      "lat":"41.041788",
+      "lang":"0.474800",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/mola-dirto/"
+   },
+   {
+      "nombre":"Sant Simplici",
+      "lat":"41.144903",
+      "lang":"1.337035",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-simplici/"
+   },
+   {
+      "nombre":"Roc del Migdia (la Valldan)",
+      "lat":"42.104533",
+      "lang":"1.362394",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-del-migdia-la-valldan/"
+   },
+   {
+      "nombre":"Roc de les Monges (Serrat de la Qüestió)",
+      "lat":"42.096656",
+      "lang":"1.717248",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-de-les-monges-serrat-de-la-questio/"
+   },
+   {
+      "nombre":"la Guàrdia (Serra de Busa)",
+      "lat":"42.093104",
+      "lang":"1.624209",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-guardia-serra-de-busa/"
+   },
+   {
+      "nombre":"Mola de Lord",
+      "lat":"42.116674",
+      "lang":"1.581828",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/mola-de-lord/"
+   },
+   {
+      "nombre":"Puigdefrou",
+      "lat":"41.963543",
+      "lang":"2.592501",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puigdefrou/"
+   },
+   {
+      "nombre":"Turó del Vent",
+      "lat":"41.861292",
+      "lang":"2.631007",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-del-vent/"
+   },
+   {
+      "nombre":"Roques del Rei",
+      "lat":"41.885280",
+      "lang":"2.565848",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roques-del-rei/"
+   },
+   {
+      "nombre":"Turó de Puigmarí",
+      "lat":"41.754554",
+      "lang":"2.730416",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-puigmari/"
+   },
+   {
+      "nombre":"Tossal Gros d\\'Almatret",
+      "lat":"41.333165",
+      "lang":"0.381876",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-gros-dalmatret/"
+   },
+   {
+      "nombre":"Tossal del Mas de Nadal",
+      "lat":"41.825562",
+      "lang":"1.317351",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-del-mas-de-nadal/"
+   },
+   {
+      "nombre":"Roca Colom",
+      "lat":"42.425151",
+      "lang":"2.318749",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-colom/"
+   },
+   {
+      "nombre":"Puig de Dòrria",
+      "lat":"42.361767",
+      "lang":"2.084664",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-dorria/"
+   },
+   {
+      "nombre":"Gra de Fajol",
+      "lat":"42.415480",
+      "lang":"2.247755",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/gra-de-fajol/"
+   },
+   {
+      "nombre":"Sant Antoni",
+      "lat":"42.305123",
+      "lang":"2.375953",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-antoni/"
+   },
+   {
+      "nombre":"l\\'Àliga",
+      "lat":"41.027710",
+      "lang":"0.557909",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/laliga/"
+   },
+   {
+      "nombre":"Pic de l\\'Àguila",
+      "lat":"41.139903",
+      "lang":"0.602189",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-laguila/"
+   },
+   {
+      "nombre":"les Càrcoles",
+      "lat":"41.035922",
+      "lang":"0.679571",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/les-carcoles/"
+   },
+   {
+      "nombre":"lo Morral",
+      "lat":"41.156296",
+      "lang":"0.851249",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lo-morral/"
+   },
+   {
+      "nombre":"Punta dels Pins Carrassers",
+      "lat":"41.305632",
+      "lang":"0.842026",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-dels-pins-carrassers/"
+   },
+   {
+      "nombre":"Puig Clarà",
+      "lat":"42.132836",
+      "lang":"2.738329",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-clara/"
+   },
+   {
+      "nombre":"Roca Entravessada",
+      "lat":"42.598398",
+      "lang":"1.442189",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-entravessada/"
+   },
+   {
+      "nombre":"Pic de Sanfonts",
+      "lat":"42.587471",
+      "lang":"1.427663",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-sanfonts/"
+   },
+   {
+      "nombre":"les Picardes",
+      "lat":"42.527161",
+      "lang":"1.052679",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/les-picardes/"
+   },
+   {
+      "nombre":"Pui de Linya",
+      "lat":"42.565985",
+      "lang":"1.043251",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pui-de-linya/"
+   },
+   {
+      "nombre":"Pic del Portarró",
+      "lat":"42.583737",
+      "lang":"0.970147",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-del-portarro/"
+   },
+   {
+      "nombre":"Tossal de l\\'Àliga (la Geganta Adormida)",
+      "lat":"42.298927",
+      "lang":"1.018841",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-laliga-la-geganta-adormida/"
+   },
+   {
+      "nombre":"Pic de la Plana",
+      "lat":"42.661582",
+      "lang":"1.036675",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-la-plana/"
+   },
+   {
+      "nombre":"Pic de Qüenca",
+      "lat":"42.699814",
+      "lang":"1.054304",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-quenca/"
+   },
+   {
+      "nombre":"Pic de Montalt",
+      "lat":"42.750379",
+      "lang":"1.132836",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-montalt/"
+   },
+   {
+      "nombre":"Pic de Ventolau",
+      "lat":"42.690651",
+      "lang":"1.190422",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-ventolau/"
+   },
+   {
+      "nombre":"Pic de Mariola",
+      "lat":"42.720051",
+      "lang":"1.216644",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-mariola/"
+   },
+   {
+      "nombre":"Cap de Broate",
+      "lat":"42.692368",
+      "lang":"1.364376",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/cap-de-broate/"
+   },
+   {
+      "nombre":"Pic de Colatx",
+      "lat":"42.724307",
+      "lang":"1.325358",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-colatx/"
+   },
+   {
+      "nombre":"Pic de Baborte",
+      "lat":"42.657463",
+      "lang":"1.367073",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-baborte/"
+   },
+   {
+      "nombre":"Montarenyo de Boldís",
+      "lat":"42.637993",
+      "lang":"1.307491",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montarenyo-de-boldis/"
+   },
+   {
+      "nombre":"Pui de la Bonaigua",
+      "lat":"42.627196",
+      "lang":"1.019481",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pui-de-la-bonaigua/"
+   },
+   {
+      "nombre":"Montsaliente",
+      "lat":"42.603103",
+      "lang":"1.008688",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montsaliente/"
+   },
+   {
+      "nombre":"Pic de Saboredo",
+      "lat":"42.607902",
+      "lang":"0.981018",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-saboredo/"
+   },
+   {
+      "nombre":"Pui Tabaca",
+      "lat":"42.588479",
+      "lang":"1.223107",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pui-tabaca/"
+   },
+   {
+      "nombre":"Pui de Cassibrós",
+      "lat":"42.560695",
+      "lang":"1.264857",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pui-de-cassibros/"
+   },
+   {
+      "nombre":"Pic de Flamisella",
+      "lat":"42.712741",
+      "lang":"1.261402",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-flamisella/"
+   },
+   {
+      "nombre":"Pic de Canalbona",
+      "lat":"42.656583",
+      "lang":"1.405891",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-canalbona/"
+   },
+   {
+      "nombre":"Pic de Gerri",
+      "lat":"42.597526",
+      "lang":"1.394249",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-gerri/"
+   },
+   {
+      "nombre":"Pui d\\'Urdosa",
+      "lat":"42.471185",
+      "lang":"1.248309",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pui-durdosa/"
+   },
+   {
+      "nombre":"Tossal del Puial",
+      "lat":"42.341786",
+      "lang":"1.133030",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-del-puial/"
+   },
+   {
+      "nombre":"Pic de la Mainera",
+      "lat":"42.524480",
+      "lang":"1.027159",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-la-mainera/"
+   },
+   {
+      "nombre":"el Codó",
+      "lat":"42.301519",
+      "lang":"0.914596",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-codo/"
+   },
+   {
+      "nombre":"Santa Bàrbara (Vall Fosca)",
+      "lat":"42.380797",
+      "lang":"0.923423",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/santa-barbara-vall-fosca/"
+   },
+   {
+      "nombre":"Pic de Llena",
+      "lat":"42.446888",
+      "lang":"0.917915",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-llena/"
+   },
+   {
+      "nombre":"Pic de l\\'Espada",
+      "lat":"42.499185",
+      "lang":"0.971881",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-lespada/"
+   },
+   {
+      "nombre":"Pic Tort",
+      "lat":"42.533747",
+      "lang":"0.988832",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-tort/"
+   },
+   {
+      "nombre":"Tossal de Codonyac",
+      "lat":"42.227967",
+      "lang":"0.814206",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-codonyac/"
+   },
+   {
+      "nombre":"Rocalta",
+      "lat":"42.211578",
+      "lang":"1.044505",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/rocalta/"
+   },
+   {
+      "nombre":"Cap de Carreu",
+      "lat":"42.193570",
+      "lang":"1.123586",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/cap-de-carreu/"
+   },
+   {
+      "nombre":"Castell de Lluçà",
+      "lat":"42.054577",
+      "lang":"2.040229",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/castell-de-lluca/"
+   },
+   {
+      "nombre":"Turó del Pou d\\'en Sala",
+      "lat":"41.832591",
+      "lang":"2.347413",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-del-pou-den-sala/"
+   },
+   {
+      "nombre":"Sant Martí Xic (Castell de Voltregà)",
+      "lat":"42.010248",
+      "lang":"2.206427",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-marti-xic-castell-de-voltrega/"
+   },
+   {
+      "nombre":"Castell de Besora",
+      "lat":"42.123941",
+      "lang":"2.251122",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/castell-de-besora/"
+   },
+   {
+      "nombre":"Serrat Alt",
+      "lat":"42.080405",
+      "lang":"2.259536",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serrat-alt/"
+   },
+   {
+      "nombre":"Puig del Far",
+      "lat":"41.959633",
+      "lang":"2.376163",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-del-far/"
+   },
+   {
+      "nombre":"lo Peladet",
+      "lat":"42.026270",
+      "lang":"0.912398",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lo-peladet/"
+   },
+   {
+      "nombre":"Tossal de Mormur",
+      "lat":"41.779937",
+      "lang":"0.749767",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-mormur/"
+   },
+   {
+      "nombre":"Munt de Montsonís",
+      "lat":"41.885768",
+      "lang":"1.014055",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/munt-de-montsonis/"
+   },
+   {
+      "nombre":"Malera",
+      "lat":"41.929903",
+      "lang":"0.720439",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/malera/"
+   },
+   {
+      "nombre":"Punta d\\'Óssos",
+      "lat":"41.949799",
+      "lang":"0.632397",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-dossos/"
+   },
+   {
+      "nombre":"Torre de les Conclues",
+      "lat":"42.016106",
+      "lang":"0.658726",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torre-de-les-conclues/"
+   },
+   {
+      "nombre":"Monteró",
+      "lat":"41.862861",
+      "lang":"0.852997",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montero/"
+   },
+   {
+      "nombre":"Tossal de Sant Jordi",
+      "lat":"41.899053",
+      "lang":"0.892467",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-sant-jordi/"
+   },
+   {
+      "nombre":"Mont-roig (Cim de les Altures)",
+      "lat":"41.902987",
+      "lang":"0.878650",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/mont-roig-cim-de-les-altures/"
+   },
+   {
+      "nombre":"el Cogulló",
+      "lat":"41.998183",
+      "lang":"1.039182",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-cogullo/"
+   },
+   {
+      "nombre":"la Portella del Pinell",
+      "lat":"40.712783",
+      "lang":"0.306421",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-portella-del-pinell/"
+   },
+   {
+      "nombre":"els Quatre Mollons",
+      "lat":"40.643029",
+      "lang":"0.561878",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/els-quatre-mollons/"
+   },
+   {
+      "nombre":"la Cogula",
+      "lat":"40.577228",
+      "lang":"0.482468",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-cogula/"
+   },
+   {
+      "nombre":"Còdol del Castellar",
+      "lat":"41.740942",
+      "lang":"2.059581",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/codol-del-castellar/"
+   },
+   {
+      "nombre":"Montpalau",
+      "lat":"41.642219",
+      "lang":"2.670392",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montpalau/"
+   },
+   {
+      "nombre":"Sant Grau",
+      "lat":"41.992444",
+      "lang":"2.715114",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-grau/"
+   },
+   {
+      "nombre":"Puig Cubell",
+      "lat":"42.137669",
+      "lang":"2.350877",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-cubell/"
+   },
+   {
+      "nombre":"Sant Miquel del Mont",
+      "lat":"42.197876",
+      "lang":"2.446635",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-miquel-del-mont/"
+   },
+   {
+      "nombre":"Roca Lladre",
+      "lat":"42.136518",
+      "lang":"2.498130",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-lladre/"
+   },
+   {
+      "nombre":"Punta del General",
+      "lat":"41.341427",
+      "lang":"0.878149",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-del-general/"
+   },
+   {
+      "nombre":"Tosseta de l\\'Esquella (Pic de Calm Colomer)",
+      "lat":"42.492381",
+      "lang":"1.730058",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tosseta-de-lesquella-pic-de-calm-colomer/"
+   },
+   {
+      "nombre":"Castell de Llívia",
+      "lat":"42.467845",
+      "lang":"1.985909",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/castell-de-llivia/"
+   },
+   {
+      "nombre":"Roca Gran",
+      "lat":"42.316284",
+      "lang":"1.711598",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-gran/"
+   },
+   {
+      "nombre":"Tossal Gros (Pelat de Talltendre)",
+      "lat":"42.420227",
+      "lang":"1.734439",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-gros-pelat-de-talltendre/"
+   },
+   {
+      "nombre":"la Creueta",
+      "lat":"42.305552",
+      "lang":"2.002298",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-creueta/"
+   },
+   {
+      "nombre":"Tossal Llisoi",
+      "lat":"42.201154",
+      "lang":"1.843530",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-llisoi/"
+   },
+   {
+      "nombre":"Serrat de la Madrona",
+      "lat":"41.990488",
+      "lang":"1.843372",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serrat-de-la-madrona/"
+   },
+   {
+      "nombre":"Cap de la Boixassa",
+      "lat":"42.288559",
+      "lang":"1.798617",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/cap-de-la-boixassa/"
+   },
+   {
+      "nombre":"Montsent (Serrat de Picancel)",
+      "lat":"42.095783",
+      "lang":"1.908241",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montsent-serrat-de-picancel/"
+   },
+   {
+      "nombre":"Roca del Joc (Roca de la Devesa Jussana)",
+      "lat":"42.215193",
+      "lang":"1.963730",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-del-joc-roca-de-la-devesa-jussana/"
+   },
+   {
+      "nombre":"Pollegó Inferior (Pedraforca)",
+      "lat":"42.235630",
+      "lang":"1.707024",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pollego-inferior-pedraforca/"
+   },
+   {
+      "nombre":"Sant Salvador",
+      "lat":"42.061364",
+      "lang":"1.781976",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-salvador/"
+   },
+   {
+      "nombre":"Serrat de Migdia (Serrat de Picancel)",
+      "lat":"42.118155",
+      "lang":"1.931652",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serrat-de-migdia-serrat-de-picancel/"
+   },
+   {
+      "nombre":"Serrat de Sant Isidre",
+      "lat":"42.090509",
+      "lang":"1.961989",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serrat-de-sant-isidre/"
+   },
+   {
+      "nombre":"Serrat Voltor",
+      "lat":"42.188121",
+      "lang":"1.777023",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serrat-voltor/"
+   },
+   {
+      "nombre":"Turó d\\'en Móra (Turó del Carmel)",
+      "lat":"41.418435",
+      "lang":"2.153352",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-den-mora-turo-del-carmel/"
+   },
+   {
+      "nombre":"Puig Francàs",
+      "lat":"41.301168",
+      "lang":"1.458887",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-francas/"
+   },
+   {
+      "nombre":"les Solius",
+      "lat":"41.308457",
+      "lang":"1.886802",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/les-solius/"
+   },
+   {
+      "nombre":"Puig de les Cols",
+      "lat":"41.780436",
+      "lang":"2.975677",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-les-cols/"
+   },
+   {
+      "nombre":"Roca Maura",
+      "lat":"42.055397",
+      "lang":"3.189831",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-maura/"
+   },
+   {
+      "nombre":"Tosseta Rasa",
+      "lat":"40.845019",
+      "lang":"0.327442",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tosseta-rasa/"
+   },
+   {
+      "nombre":"Moleta de les Canals",
+      "lat":"40.909033",
+      "lang":"0.362741",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/moleta-de-les-canals/"
+   },
+   {
+      "nombre":"Tossal de Montagut",
+      "lat":"40.941305",
+      "lang":"0.714712",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-montagut/"
+   },
+   {
+      "nombre":"Roca de la Barca (les Picòssies)",
+      "lat":"40.963486",
+      "lang":"0.584370",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-de-la-barca-les-picossies/"
+   },
+   {
+      "nombre":"Catinell",
+      "lat":"40.758730",
+      "lang":"0.289653",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/catinell/"
+   },
+   {
+      "nombre":"Montaspre",
+      "lat":"40.875580",
+      "lang":"0.570928",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montaspre/"
+   },
+   {
+      "nombre":"lo Caramull",
+      "lat":"40.987114",
+      "lang":"0.547846",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lo-caramull/"
+   },
+   {
+      "nombre":"Mola Castellona",
+      "lat":"40.799761",
+      "lang":"0.369778",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/mola-castellona/"
+   },
+   {
+      "nombre":"la Moleta",
+      "lat":"40.899297",
+      "lang":"0.417868",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-moleta/"
+   },
+   {
+      "nombre":"Punta del Pallars",
+      "lat":"41.012469",
+      "lang":"0.873881",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-del-pallars/"
+   },
+   {
+      "nombre":"Tossal de l\\'Alzina",
+      "lat":"40.968088",
+      "lang":"0.809551",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-lalzina/"
+   },
+   {
+      "nombre":"Santa Bàrbara (Escornalbou)",
+      "lat":"41.127021",
+      "lang":"0.914951",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/santa-barbara-escornalbou/"
+   },
+   {
+      "nombre":"Serret del Cisa",
+      "lat":"41.199653",
+      "lang":"1.017457",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serret-del-cisa/"
+   },
+   {
+      "nombre":"el Bres",
+      "lat":"41.153937",
+      "lang":"0.977411",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-bres/"
+   },
+   {
+      "nombre":"el Garrofí",
+      "lat":"41.861259",
+      "lang":"1.938720",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-garrofi/"
+   },
+   {
+      "nombre":"Puig-alter",
+      "lat":"41.813930",
+      "lang":"1.785542",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-alter/"
+   },
+   {
+      "nombre":"Turó de l\\'Ermità",
+      "lat":"41.620262",
+      "lang":"1.815019",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/"
+   },
+   {
+      "nombre":"Turó del Mal Pas",
+      "lat":"41.671376",
+      "lang":"1.954693",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-del-mal-pas/"
+   },
+   {
+      "nombre":"Turó de Can Dolcet",
+      "lat":"41.555408",
+      "lang":"1.815801",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-can-dolcet/"
+   },
+   {
+      "nombre":"Miranda del Príncep",
+      "lat":"41.604897",
+      "lang":"1.792784",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/miranda-del-princep/"
+   },
+   {
+      "nombre":"Tuc de Ribereta",
+      "lat":"42.626145",
+      "lang":"0.895240",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-ribereta/"
+   },
+   {
+      "nombre":"Tuc de la Contesa",
+      "lat":"42.615515",
+      "lang":"0.788591",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-contesa/"
+   },
+   {
+      "nombre":"Tuc des Monges",
+      "lat":"42.622386",
+      "lang":"0.866017",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-des-monges/"
+   },
+   {
+      "nombre":"Tossal Gros (Serra de Sant Gervàs)",
+      "lat":"42.333077",
+      "lang":"0.771100",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-gros-serra-de-sant-gervas/"
+   },
+   {
+      "nombre":"Pic de Mariolo (Pic de Neriolo)",
+      "lat":"42.530730",
+      "lang":"0.957631",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-mariolo-pic-de-neriolo/"
+   },
+   {
+      "nombre":"l\\'Avedoga d\\'Adons",
+      "lat":"42.314116",
+      "lang":"0.838204",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lavedoga-dadons/"
+   },
+   {
+      "nombre":"Cap de Gelada",
+      "lat":"42.521551",
+      "lang":"0.765144",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/cap-de-gelada/"
+   },
+   {
+      "nombre":"l\\'Aüt",
+      "lat":"42.541340",
+      "lang":"0.808755",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/laut/"
+   },
+   {
+      "nombre":"Pic Roi",
+      "lat":"42.565195",
+      "lang":"0.798188",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-roi/"
+   },
+   {
+      "nombre":"Punta Senyalada",
+      "lat":"42.591370",
+      "lang":"0.808478",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-senyalada/"
+   },
+   {
+      "nombre":"Pic de Contraix",
+      "lat":"42.585240",
+      "lang":"0.906931",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-contraix/"
+   },
+   {
+      "nombre":"Tuc des Carants",
+      "lat":"42.514046",
+      "lang":"0.903326",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-des-carants/"
+   },
+   {
+      "nombre":"Roca del Coscolló",
+      "lat":"42.127821",
+      "lang":"1.354350",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-del-coscollo/"
+   },
+   {
+      "nombre":"Roca de Migdia (Serra del Verd)",
+      "lat":"42.207929",
+      "lang":"1.568135",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-de-migdia-serra-del-verd/"
+   },
+   {
+      "nombre":"Turó Punçó",
+      "lat":"42.424555",
+      "lang":"1.600995",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-punco/"
+   },
+   {
+      "nombre":"Pic de Costa Cabirolera",
+      "lat":"42.281459",
+      "lang":"1.670418",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-costa-cabirolera/"
+   },
+   {
+      "nombre":"Tossal de Lletó",
+      "lat":"42.311767",
+      "lang":"1.542997",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-lleto/"
+   },
+   {
+      "nombre":"Roc de Cogul",
+      "lat":"42.065286",
+      "lang":"1.265430",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-de-cogul/"
+   },
+   {
+      "nombre":"Cap de Pla Redon",
+      "lat":"42.275525",
+      "lang":"1.267020",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/cap-de-pla-redon/"
+   },
+   {
+      "nombre":"Tossal de Badés",
+      "lat":"42.323748",
+      "lang":"1.624994",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-bades/"
+   },
+   {
+      "nombre":"Roc Roi",
+      "lat":"42.435353",
+      "lang":"1.338294",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-roi/"
+   },
+   {
+      "nombre":"Serrat de Carrasquers",
+      "lat":"42.132545",
+      "lang":"1.192696",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serrat-de-carrasquers/"
+   },
+   {
+      "nombre":"l\\'Oratori",
+      "lat":"42.201373",
+      "lang":"1.218321",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/loratori/"
+   },
+   {
+      "nombre":"Penya Aguda",
+      "lat":"42.214531",
+      "lang":"1.267256",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/penya-aguda/"
+   },
+   {
+      "nombre":"Sant Quiri",
+      "lat":"42.305240",
+      "lang":"1.301323",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-quiri/"
+   },
+   {
+      "nombre":"Roc de les Tres Creus",
+      "lat":"42.091256",
+      "lang":"1.309484",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-de-les-tres-creus/"
+   },
+   {
+      "nombre":"Tossal de Balinyó",
+      "lat":"42.188403",
+      "lang":"1.343498",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-balinyo/"
+   },
+   {
+      "nombre":"Puig dels Pruners",
+      "lat":"42.428005",
+      "lang":"2.802938",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-dels-pruners/"
+   },
+   {
+      "nombre":"Puig d\\'en Jordà",
+      "lat":"42.427758",
+      "lang":"3.082050",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-den-jorda/"
+   },
+   {
+      "nombre":"Puig de Cervera",
+      "lat":"42.435216",
+      "lang":"3.170752",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-cervera/"
+   },
+   {
+      "nombre":"Tossa d\\'Espinau",
+      "lat":"42.273432",
+      "lang":"2.692850",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossa-despinau/"
+   },
+   {
+      "nombre":"Puig Segalar",
+      "lat":"42.112440",
+      "lang":"3.049930",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-segalar/"
+   },
+   {
+      "nombre":"Puig Falcó",
+      "lat":"42.375290",
+      "lang":"2.667094",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-falco/"
+   },
+   {
+      "nombre":"Santa Magdalena",
+      "lat":"42.324546",
+      "lang":"2.825785",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/santa-magdalena/"
+   },
+   {
+      "nombre":"Puig de l\\'Àliga (Cap de Creus)",
+      "lat":"42.280507",
+      "lang":"3.204968",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-laliga-cap-de-creus/"
+   },
+   {
+      "nombre":"Puig dels Bufadors",
+      "lat":"42.301067",
+      "lang":"3.248749",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-dels-bufadors/"
+   },
+   {
+      "nombre":"Torres de Cabrenç",
+      "lat":"42.3645718057",
+      "lang":"2.5421728176",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torres-de-cabrenc/"
+   },
+   {
+      "nombre":"Puig de Sant Cristau",
+      "lat":"42.4920219845",
+      "lang":"2.89069878728",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-cristau/"
+   },
+   {
+      "nombre":"Torre del Far",
+      "lat":"42.8054119343",
+      "lang":"2.76180548558",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torre-del-far/"
+   },
+   {
+      "nombre":"Roc de Mallorca",
+      "lat":"42.616003",
+      "lang":"2.705595",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-de-mallorca/"
+   },
+   {
+      "nombre":"Montolier de Perellós",
+      "lat":"42.9185248623",
+      "lang":"2.86518569768",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montolier-de-perellos/"
+   },
+   {
+      "nombre":"Força Real",
+      "lat":"42.7269198717",
+      "lang":"2.70022626173",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/forca-real/"
+   },
+   {
+      "nombre":"Tuc Dormidor",
+      "lat":"42.710350",
+      "lang":"2.266020",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-dormidor/"
+   },
+   {
+      "nombre":"Roca Gelera",
+      "lat":"42.6851098962",
+      "lang":"2.43770677452",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-gelera/"
+   },
+   {
+      "nombre":"Puig de l\\'Estella",
+      "lat":"42.5146828414",
+      "lang":"2.55355631584",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-lestella/"
+   },
+   {
+      "nombre":"Puig de les Tres Esteles",
+      "lat":"42.508771955",
+      "lang":"2.32321679045",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-les-tres-esteles/"
+   },
+   {
+      "nombre":"Puig de Gallinàs",
+      "lat":"42.4777793254",
+      "lang":"2.2153093651",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-gallinas/"
+   },
+   {
+      "nombre":"Pic de Racó Gros",
+      "lat":"42.4322202523",
+      "lang":"2.1871139362",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-raco-gros/"
+   },
+   {
+      "nombre":"Pic de l\\'Infern",
+      "lat":"42.4239313658",
+      "lang":"2.21373246579",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-linfern/"
+   },
+   {
+      "nombre":"Turó de Bell-lloc",
+      "lat":"42.4832775498",
+      "lang":"1.92218442466",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-bell-lloc/"
+   },
+   {
+      "nombre":"Roc del Boc",
+      "lat":"42.4463355484",
+      "lang":"2.15515749301",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-del-boc/"
+   },
+   {
+      "nombre":"Puig Pedrós de Lanós",
+      "lat":"42.588501",
+      "lang":"1.873090",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-pedros-de-lanos/"
+   },
+   {
+      "nombre":"Puig de la Grava",
+      "lat":"42.6048517182",
+      "lang":"1.93347627782",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-grava/"
+   },
+   {
+      "nombre":"Pic dels Moros",
+      "lat":"42.5131817626",
+      "lang":"1.99099502046",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-dels-moros/"
+   },
+   {
+      "nombre":"Pic de Font Freda",
+      "lat":"42.5363510575",
+      "lang":"1.7949934141",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-font-freda/"
+   },
+   {
+      "nombre":"Pic de Baixollada",
+      "lat":"42.6611074097",
+      "lang":"2.00222336016",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-baixollada/"
+   },
+   {
+      "nombre":"Tosa del Braibal",
+      "lat":"42.5029747118",
+      "lang":"1.59850483358",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tosa-del-braibal/"
+   },
+   {
+      "nombre":"Roc Melé",
+      "lat":"42.587786779",
+      "lang":"1.74181711408",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-mele/"
+   },
+   {
+      "nombre":"Pic d\\'Escobes",
+      "lat":"42.6091788805",
+      "lang":"1.73563223829",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-descobes/"
+   },
+   {
+      "nombre":"Pic de Font Blanca",
+      "lat":"42.6497189222",
+      "lang":"1.53440090753",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-font-blanca/"
+   },
+   {
+      "nombre":"Pic de Cataperdís",
+      "lat":"42.6148182182",
+      "lang":"1.4774275311",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-cataperdis/"
+   },
+   {
+      "nombre":"Montmalús",
+      "lat":"42.5089260625",
+      "lang":"1.68656940099",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montmalus/"
+   },
+   {
+      "nombre":"Alt del Griu",
+      "lat":"42.5254810178",
+      "lang":"1.6511339106",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/alt-del-griu/"
+   },
+   {
+      "nombre":"Alt de Juclar",
+      "lat":"42.611704",
+      "lang":"1.709588",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/alt-de-juclar/"
+   },
+   {
+      "nombre":"Turó del Samon",
+      "lat":"41.7426763307",
+      "lang":"2.36552500233",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-del-samon/"
+   },
+   {
+      "nombre":"Puiggraciós",
+      "lat":"41.7026698984",
+      "lang":"2.24118699931",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puiggracios/"
+   },
+   {
+      "nombre":"Turó del Ros",
+      "lat":"41.5763385712",
+      "lang":"1.93396849589",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/"
+   },
+   {
+      "nombre":"Tuc Gran dera Sendrosa",
+      "lat":"42.6239250652",
+      "lang":"0.946848989161",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-gran-dera-sendrosa/"
+   },
+   {
+      "nombre":"Tuc deth Plan deth Ome (Vacanera)",
+      "lat":"42.8461319437",
+      "lang":"0.675123685097",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-deth-plan-deth-ome-vacanera/"
+   },
+   {
+      "nombre":"Tuc dera Pincela",
+      "lat":"42.7428629004",
+      "lang":"0.875683713178",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-dera-pincela/"
+   },
+   {
+      "nombre":"Tuc d\\'Era Entecada",
+      "lat":"42.7180741367",
+      "lang":"0.696960900078",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-dera-entecada/"
+   },
+   {
+      "nombre":"Tuc de Barlonguèra",
+      "lat":"42.7885699239",
+      "lang":"1.0098439898",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-barlonguera/"
+   },
+   {
+      "nombre":"Tossau de Mar",
+      "lat":"42.63029682",
+      "lang":"0.82896879",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossau-de-mar/"
+   },
+   {
+      "nombre":"Malh des Pois (la Forcanada)",
+      "lat":"42.6432185354",
+      "lang":"0.705628888897",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/malh-des-pois-la-forcanada/"
+   },
+   {
+      "nombre":"Punta Redona",
+      "lat":"41.0588485404",
+      "lang":"0.500927909963",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-redona/"
+   },
+   {
+      "nombre":"Puig Cavaller",
+      "lat":"41.0277617786",
+      "lang":"0.437628283448",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-cavaller/"
+   },
+   {
+      "nombre":"Serra de Pinós",
+      "lat":"41.8335886088",
+      "lang":"1.52894123151",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/serra-de-pinos/"
+   },
+   {
+      "nombre":"Puig Sobirà",
+      "lat":"42.1340410525",
+      "lang":"1.49765053388",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-sobira/"
+   },
+   {
+      "nombre":"Sant Benet",
+      "lat":"41.9487368657",
+      "lang":"2.51350177313",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-benet/"
+   },
+   {
+      "nombre":"L\\'Argimon",
+      "lat":"41.8306607507",
+      "lang":"2.63598108836",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/largimon/"
+   },
+   {
+      "nombre":"El Far",
+      "lat":"42.0208408193",
+      "lang":"2.5366387097",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-far/"
+   },
+   {
+      "nombre":"Tossal de la Moradilla",
+      "lat":"41.619530636",
+      "lang":"0.709795465691",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-moradilla/"
+   },
+   {
+      "nombre":"Tossal de Suró",
+      "lat":"41.5727833358",
+      "lang":"1.3049206803",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-suro/"
+   },
+   {
+      "nombre":"Torreneules",
+      "lat":"42.3908750324",
+      "lang":"2.19620075069",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torreneules/"
+   },
+   {
+      "nombre":"Puig Estela",
+      "lat":"42.2843006575",
+      "lang":"2.2539920533",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-estela/"
+   },
+   {
+      "nombre":"Puig de les Agudes",
+      "lat":"42.3633808585",
+      "lang":"2.31874391776",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-les-agudes/"
+   },
+   {
+      "nombre":"Puig de Bestrecà",
+      "lat":"42.2943132206",
+      "lang":"2.51542425463",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-bestreca/"
+   },
+   {
+      "nombre":"Puig Cornador",
+      "lat":"42.1397374015",
+      "lang":"2.10833614168",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-cornador/"
+   },
+   {
+      "nombre":"Noufonts",
+      "lat":"42.4246523941",
+      "lang":"2.16788405017",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/noufonts/"
+   },
+   {
+      "nombre":"Les Borregues",
+      "lat":"42.3963220756",
+      "lang":"2.2477214416",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/les-borregues/"
+   },
+   {
+      "nombre":"Coll de Pins",
+      "lat":"40.9874138161",
+      "lang":"0.593574351565",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/coll-de-pins/"
+   },
+   {
+      "nombre":"Montalt (punta nord)",
+      "lat":"41.0683345646",
+      "lang":"0.803218722587",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montalt-punta-nord/"
+   },
+   {
+      "nombre":"La Cogulla (Montsant)",
+      "lat":"41.2775256311",
+      "lang":"0.805672027137",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-cogulla-montsant/"
+   },
+   {
+      "nombre":"Tuc de Marimanya",
+      "lat":"42.709242624",
+      "lang":"1.01233231492",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-marimanya/"
+   },
+   {
+      "nombre":"Pics de Bassiero (Occidental)",
+      "lat":"42.6066752263",
+      "lang":"0.995373452004",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pics-de-bassiero/"
+   },
+   {
+      "nombre":"Pica Roja",
+      "lat":"42.624996751",
+      "lang":"1.42041450706",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pica-roja/"
+   },
+   {
+      "nombre":"Pic de Pilàs",
+      "lat":"42.6828291223",
+      "lang":"1.13150733611",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-pilas/"
+   },
+   {
+      "nombre":"Pic de Medacorba",
+      "lat":"42.603724",
+      "lang":"1.441992",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-medacorba/"
+   },
+   {
+      "nombre":"Pic de Màniga",
+      "lat":"42.5057348985",
+      "lang":"1.32883919585",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-maniga/"
+   },
+   {
+      "nombre":"Pic de Clavera",
+      "lat":"42.7877860028",
+      "lang":"1.07672157012",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-clavera/"
+   },
+   {
+      "nombre":"Montcaubo (lo Calbo)",
+      "lat":"42.5986630987",
+      "lang":"1.17941713732",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montcaubo-lo-calbo/"
+   },
+   {
+      "nombre":"Gran Encantat",
+      "lat":"42.5684086401",
+      "lang":"1.01483782051",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/gran-encantat/"
+   },
+   {
+      "nombre":"Roc de Sant Aventí",
+      "lat":"42.3072328376",
+      "lang":"0.974246319524",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-de-sant-aventi/"
+   },
+   {
+      "nombre":"Pic de Subenuix",
+      "lat":"42.5549470732",
+      "lang":"0.979380978448",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-subenuix/"
+   },
+   {
+      "nombre":"Pic de Filià (Tossal de Paiasso)",
+      "lat":"42.4729420398",
+      "lang":"0.930322794098",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-filia-tossal-de-paiasso/"
+   },
+   {
+      "nombre":"Montllobar",
+      "lat":"42.1465952076",
+      "lang":"0.797767345034",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montllobar/"
+   },
+   {
+      "nombre":"Gallinova",
+      "lat":"42.1847230594",
+      "lang":"1.07808782096",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/gallinova/"
+   },
+   {
+      "nombre":"Turó de Bellver",
+      "lat":"41.8471462109",
+      "lang":"2.17154371646",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/"
+   },
+   {
+      "nombre":"Santa Magdalena de Cambrils",
+      "lat":"42.1689910199",
+      "lang":"2.34026503464",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/santa-magdalena-de-cambrils/"
+   },
+   {
+      "nombre":"Puig de les Àligues",
+      "lat":"42.1090151344",
+      "lang":"2.34931774822",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-les-aligues/"
+   },
+   {
+      "nombre":"Puig de la Força",
+      "lat":"41.9810070598",
+      "lang":"2.38898447593",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-forca/"
+   },
+   {
+      "nombre":"L\\'Enclusa",
+      "lat":"41.8707878226",
+      "lang":"2.32093889931",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lenclusa/"
+   },
+   {
+      "nombre":"Els Munts",
+      "lat":"42.0787263425",
+      "lang":"2.15328121534",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/els-munts/"
+   },
+   {
+      "nombre":"Roca Roja",
+      "lat":"42.0722101705",
+      "lang":"1.10016255867",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-roja/"
+   },
+   {
+      "nombre":"Puig de Millà",
+      "lat":"42.001724505",
+      "lang":"0.672191437353",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-milla/"
+   },
+   {
+      "nombre":"Puig de Grialó",
+      "lat":"41.9017488183",
+      "lang":"1.10878212966",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-grialo/"
+   },
+   {
+      "nombre":"Montmagastre",
+      "lat":"41.9765577307",
+      "lang":"1.12875357473",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montmagastre/"
+   },
+   {
+      "nombre":"Los Picons",
+      "lat":"41.9258368303",
+      "lang":"0.641572525273",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/los-picons/"
+   },
+   {
+      "nombre":"El Negrell",
+      "lat":"40.7341570377",
+      "lang":"0.227329062732",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-negrell/"
+   },
+   {
+      "nombre":"El Montsianell",
+      "lat":"40.6830235057",
+      "lang":"0.555600233824",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-montsianell/"
+   },
+   {
+      "nombre":"Turó d\\'Onofre Arnau",
+      "lat":"41.5545820258",
+      "lang":"2.46903089064",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-donofre-arnau/"
+   },
+   {
+      "nombre":"Turó d\\'en Galzeran o d\\'en Mates",
+      "lat":"41.5046857089",
+      "lang":"2.26664062157",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-den-galzeran-o-den-mates/"
+   },
+   {
+      "nombre":"Turó de Montgat",
+      "lat":"41.4658949776",
+      "lang":"2.27868166694",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-montgat/"
+   },
+   {
+      "nombre":"Pedracastell o Creu de Canet",
+      "lat":"41.6088812679",
+      "lang":"2.57368270577",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pedracastell-o-creu-de-canet/"
+   },
+   {
+      "nombre":"Montbarbat",
+      "lat":"41.7355101863",
+      "lang":"2.7766586707",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montbarbat/"
+   },
+   {
+      "nombre":"Puig Cadiretes",
+      "lat":"41.7573307749",
+      "lang":"2.92821015443",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-cadiretes/"
+   },
+   {
+      "nombre":"Montigalar",
+      "lat":"41.9630547913",
+      "lang":"2.92463692226",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montigalar/"
+   },
+   {
+      "nombre":"Volcà del Croscat",
+      "lat":"42.1539906034",
+      "lang":"2.53606815969",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/volca-del-croscat/"
+   },
+   {
+      "nombre":"Sant Roc",
+      "lat":"42.0174863364",
+      "lang":"2.66189985111",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-roc/"
+   },
+   {
+      "nombre":"Puigsallança",
+      "lat":"42.1150682972",
+      "lang":"2.58147210612",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puigsallanca/"
+   },
+   {
+      "nombre":"Montmajor",
+      "lat":"42.2687834061",
+      "lang":"2.48304982626",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montmajor/"
+   },
+   {
+      "nombre":"Tossal de les Viudes",
+      "lat":"42.1147525661",
+      "lang":"1.65922632604",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tossal-de-les-viudes/"
+   },
+   {
+      "nombre":"Sobrepuny",
+      "lat":"42.1677248606",
+      "lang":"1.91070593443",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sobrepuny/"
+   },
+   {
+      "nombre":"Sant Marc de Brocà",
+      "lat":"42.2649312024",
+      "lang":"1.89873987298",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/sant-marc-de-broca/"
+   },
+   {
+      "nombre":"Salga Aguda",
+      "lat":"42.1192540287",
+      "lang":"1.95140868336",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/salga-aguda/"
+   },
+   {
+      "nombre":"Puigllançada",
+      "lat":"42.300483377",
+      "lang":"1.93553484457",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puigllancada/"
+   },
+   {
+      "nombre":"Pedró de Tubau",
+      "lat":"42.2201958619",
+      "lang":"2.04956708035",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pedro-de-tubau/"
+   },
+   {
+      "nombre":"Els Tossals",
+      "lat":"42.0892489918",
+      "lang":"1.72742659445",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/els-tossals/"
+   },
+   {
+      "nombre":"Puig de Sant Antoni",
+      "lat":"41.2437100625",
+      "lang":"1.47433479322",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-antoni/"
+   },
+   {
+      "nombre":"Puig de la Cova",
+      "lat":"41.3151038048",
+      "lang":"1.47510807421",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cova/"
+   },
+   {
+      "nombre":"Puig Madrona",
+      "lat":"41.4512983754",
+      "lang":"2.02409766978",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-madrona/"
+   },
+   {
+      "nombre":"Puig d\\'Olorda",
+      "lat":"41.4121939529",
+      "lang":"2.05499061251",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/"
+   },
+   {
+      "nombre":"Puig Cendrós",
+      "lat":"41.5756360735",
+      "lang":"1.89299280596",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-cendros/"
+   },
+   {
+      "nombre":"Miranda de Santa Magdalena",
+      "lat":"41.5884059331",
+      "lang":"1.82647684649",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/miranda-de-santa-magdalena/"
+   },
+   {
+      "nombre":"Quermany Gros",
+      "lat":"41.9603145487",
+      "lang":"3.17009964673",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/quermany-gros/"
+   },
+   {
+      "nombre":"Puig Gros",
+      "lat":"41.7750249885",
+      "lang":"2.99796651839",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-gros/"
+   },
+   {
+      "nombre":"Puig d\\'Arques",
+      "lat":"41.8887283793",
+      "lang":"2.99429857701",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-darques/"
+   },
+   {
+      "nombre":"Montclar",
+      "lat":"41.7886622761",
+      "lang":"2.95619265406",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montclar/"
+   },
+   {
+      "nombre":"Morral del Cabrafeixet",
+      "lat":"40.898477",
+      "lang":"0.625154",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/morral-del-cabrafeixet/"
+   },
+   {
+      "nombre":"L\\'Espina",
+      "lat":"40.8793690775",
+      "lang":"0.360899310112",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/lespina/"
+   },
+   {
+      "nombre":"La Coscollosa",
+      "lat":"40.9023779146",
+      "lang":"0.413558589612",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-coscollosa/"
+   },
+   {
+      "nombre":"Puig Pelat",
+      "lat":"41.2663110481",
+      "lang":"1.05450380794",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-pelat/"
+   },
+   {
+      "nombre":"Puig d\\'en Cama",
+      "lat":"41.2202617175",
+      "lang":"1.09406719048",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-den-cama/"
+   },
+   {
+      "nombre":"Puig de Gallicant",
+      "lat":"41.2495015167",
+      "lang":"0.960719737495",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-gallicant/"
+   },
+   {
+      "nombre":"Picorandan",
+      "lat":"41.2878857333",
+      "lang":"1.01719022482",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/picorandan/"
+   },
+   {
+      "nombre":"Miranda de Puigcerver",
+      "lat":"41.1935878726",
+      "lang":"0.931584555592",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/miranda-de-puigcerver/"
+   },
+   {
+      "nombre":"El Torn",
+      "lat":"40.9657461416",
+      "lang":"0.883354759262",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-torn/"
+   },
+   {
+      "nombre":"Turó de l\\'Escletxa (Turó de Montconill)",
+      "lat":"41.6287105203",
+      "lang":"1.88694712824",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/"
+   },
+   {
+      "nombre":"Turó de la Torre o de Castellnou",
+      "lat":"41.8509216559",
+      "lang":"1.8300988474",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/"
+   },
+   {
+      "nombre":"Roca Sereny",
+      "lat":"41.6945024649",
+      "lang":"2.01789428863",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roca-sereny/"
+   },
+   {
+      "nombre":"Pujol de la Mata",
+      "lat":"41.6821512175",
+      "lang":"1.98442838996",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pujol-de-la-mata/"
+   },
+   {
+      "nombre":"Puigsoler",
+      "lat":"41.6678850742",
+      "lang":"1.89285524584",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puigsoler/"
+   },
+   {
+      "nombre":"Cogulló de Cal Torre",
+      "lat":"41.6874716091",
+      "lang":"1.68642459544",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/cogullo-de-cal-torre/"
+   },
+   {
+      "nombre":"Torre Alta (Castell Ferran)",
+      "lat":"41.6112068212",
+      "lang":"1.76328314465",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torre-alta-castell-ferran/"
+   },
+   {
+      "nombre":"Puig d\\'Aguilera",
+      "lat":"41.6047885186",
+      "lang":"1.67081069484",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-daguilera/"
+   },
+   {
+      "nombre":"El Castellar (serra d\\'Ancosa)",
+      "lat":"41.4483303855",
+      "lang":"1.51647754872",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-castellar-serra-dancosa/"
+   },
+   {
+      "nombre":"Miranda dels Ecos",
+      "lat":"41.604409941",
+      "lang":"1.8062062446",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/miranda-dels-ecos/"
+   },
+   {
+      "nombre":"Grony de Miralles",
+      "lat":"41.5167025621",
+      "lang":"1.49218341096",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/grony-de-miralles/"
+   },
+   {
+      "nombre":"Castell de Boixadors",
+      "lat":"41.7706425868",
+      "lang":"1.57477558985",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/castell-de-boixadors/"
+   },
+   {
+      "nombre":"Tuc de Lluçà",
+      "lat":"42.6102917642",
+      "lang":"0.901177564183",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-lluca/"
+   },
+   {
+      "nombre":"Tuc de la Comamarja",
+      "lat":"42.5264278782",
+      "lang":"0.878311634743",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-comamarja/"
+   },
+   {
+      "nombre":"Punta d\\'Harlé",
+      "lat":"42.6104008216",
+      "lang":"0.842595085439",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/punta-dharle/"
+   },
+   {
+      "nombre":"Pic de la Pala Alta de Sarradé",
+      "lat":"42.5747132507",
+      "lang":"0.890942673958",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-la-pala-alta-de-sarrade/"
+   },
+   {
+      "nombre":"La Faiada",
+      "lat":"42.3750354872",
+      "lang":"0.77512806113",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-faiada/"
+   },
+   {
+      "nombre":"Gran Pic del Pessó",
+      "lat":"42.5094903448",
+      "lang":"0.924102242387",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/gran-pic-del-pesso/"
+   },
+   {
+      "nombre":"Besiberri Nord",
+      "lat":"42.6052569802",
+      "lang":"0.826303718072",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/besiberri-nord/"
+   },
+   {
+      "nombre":"Torreta del Cadí",
+      "lat":"42.2870741235",
+      "lang":"1.58419812657",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/torreta-del-cadi/"
+   },
+   {
+      "nombre":"Roc de Galliner",
+      "lat":"42.1980678653",
+      "lang":"1.41096353508",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-de-galliner/"
+   },
+   {
+      "nombre":"Roc Beneïdor",
+      "lat":"42.3712181404",
+      "lang":"1.56049672773",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/roc-beneidor/"
+   },
+   {
+      "nombre":"Pedró dels Quatre Batlles",
+      "lat":"42.1847955583",
+      "lang":"1.5209102343",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pedro-dels-quatre-batlles/"
+   },
+   {
+      "nombre":"Mirador del Pla de Llet",
+      "lat":"42.4045530362",
+      "lang":"1.6329485067",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/mirador-del-pla-de-llet/"
+   },
+   {
+      "nombre":"Les Piques",
+      "lat":"42.3209657507",
+      "lang":"1.17584546118",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/les-piques/"
+   },
+   {
+      "nombre":"El Cadinell",
+      "lat":"42.2643934199",
+      "lang":"1.59782471728",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/el-cadinell/"
+   },
+   {
+      "nombre":"Puig de la Mola",
+      "lat":"41.3193219621",
+      "lang":"1.84785320744",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-mola/"
+   },
+   {
+      "nombre":"Puig d\\'Agulles",
+      "lat":"41.4080777208",
+      "lang":"1.88497858406",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-dagulles/"
+   },
+   {
+      "nombre":"Montau",
+      "lat":"41.3458636248",
+      "lang":"1.88500083001",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montau/"
+   },
+   {
+      "nombre":"Querroig",
+      "lat":"42.4382628983",
+      "lang":"3.12092853859",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/querroig/"
+   },
+   {
+      "nombre":"Puig d\\'Esquers",
+      "lat":"42.3926797402",
+      "lang":"3.09635933543",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-desquers/"
+   },
+   {
+      "nombre":"Puig de les Bruixes",
+      "lat":"42.3244930629",
+      "lang":"2.55549817266",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-les-bruixes/"
+   },
+   {
+      "nombre":"Pic de Sallafort",
+      "lat":"42.4734705922",
+      "lang":"3.03804096524",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/pic-de-sallafort/"
+   },
+   {
+      "nombre":"Puig de la Gavarra",
+      "lat":"42.3607261639",
+      "lang":"2.69684853147",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puig-de-la-gavarra/"
+   },
+   {
+      "nombre":"Puigcabrer",
+      "lat":"41.3153344091",
+      "lang":"1.19129326727",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/puigcabrer/"
+   },
+   {
+      "nombre":"Montagut d\\'Ancosa",
+      "lat":"41.4068776962",
+      "lang":"1.42226158803",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/montagut-dancosa/"
+   },
+   {
+      "nombre":"La Cogulla",
+      "lat":"41.3488047979",
+      "lang":"1.22482709087",
+      "url":"https://www.feec.cat/activitats/100-cims/cim/la-cogulla/"
+   }
+]
